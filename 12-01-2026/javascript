@@ -1,1 +1,5 @@
-a
+Everything in javascript happens inside the execution context.
+Execution context is having two components memory and code.
+Variables and key value stored in memory,and also memory is called as variable environment.
+in code component code will execute one line at a time.
+javascript is sychronous single threaded language.
